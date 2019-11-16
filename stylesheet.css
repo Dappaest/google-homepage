@@ -24,24 +24,17 @@ img.center{
 }
 
 .searchbar{
-  background-color: transparent;
-  padding: 6px;
-  border: none;
-  display: flex;
-  margin-top: auto;
-  margin-right: auto;
+  display: block;
   margin-left: auto;
-  font-size: 17px;
-  background-color: transparent;
-    border: none;
-    margin: 0;
-    padding: 0;
-    color: rgba(0,0,0,.87);
-    word-wrap: break-word;
-    outline: none;
-    display: flex;
-    flex: 100%;
-    -webkit-tap-highlight-color: transparent;
-    margin-top: -37px;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 400px;
+  height: 38px;
+  border-radius: 200px;
+  border: 1px solid #dedede;
+  box-shadow: 1px 1px 1px 1px #eaeaea;
+}
+
+
   
 }

@@ -1,0 +1,1 @@
+This will be my attempt at recreating the google homepage with a few modifications and minor adjustmestments in style.  The struggle so far is that i dont have a mac so ihave to do everthing in terminal.

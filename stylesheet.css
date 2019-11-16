@@ -1,0 +1,47 @@
+.menuitem{
+  list-style-type: none;
+  padding-left: 15px;
+  display: inline-block;
+  color: #000;
+  opacity: 0.75;
+  font-family: arial,sans-serif;
+  font-size: 18px;
+}
+
+  ul :hover {
+   text-decoration-line: none;
+   text-decoration-style: wavy;
+   text-decoration-color: #000;
+  }
+img.center{
+
+  padding-top: 109px;
+  height: 300px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.searchbar{
+  background-color: transparent;
+  padding: 6px;
+  border: none;
+  display: flex;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 17px;
+  background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+  
+}

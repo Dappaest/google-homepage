@@ -5,36 +5,56 @@
   color: #000;
   opacity: 0.75;
   font-family: arial,sans-serif;
-  font-size: 18px;
+  font-size: 13px;
 }
 
-  ul :hover {
+  ul, .search-btn, .lucky-btn, :hover {
    text-decoration-line: none;
-   text-decoration-style: wavy;
    text-decoration-color: #000;
   }
 img.center{
-
-  padding-top: 109px;
-  height: 300px;
-  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 350px;
+  padding-top: 100px;
 }
 
 .searchbar{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 25px;
   width: 400px;
-  height: 38px;
+  height: 30px;
   border-radius: 200px;
   border: 1px solid #dedede;
   box-shadow: 1px 1px 1px 1px #eaeaea;
+  font: 16px arial,sans-serif;
+  line-height: 34px;
+  height: 34px !important;
 }
-
-
+.search-btn, .lucky-btn{
+  padding-top: 4px;
+  padding-left: 400px;
+  text-align: -webkit-center;
+  -webkit-box-align: center;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-color: #f2f2f2;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  color: #5F6368;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  -webkit-appearance: push-button;
+  box-sizing: border-box;
   
 }
+
